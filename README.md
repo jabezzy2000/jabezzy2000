@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/j0shbl0ck/j0shbl0ck/blob/main/Add-ons/FSN.gif?raw=true)](https://github.com/jabezzy2000)
+[![MasterHead](https://media.tenor.com/tTvBVvMFUNEAAAAC/harry-potter-sorcerer-stone.gif)](https://github.com/jabezzy2000)
 <h1 align="center">Hi 👋, I'm Jabez Agyemang-Prempeh</h1>
 <h3 align="center">I am a computer science student at Howard University and a passionate and budding developer.</h3>
 
