@@ -1,4 +1,8 @@
-[![MasterHead](https://media.tenor.com/tTvBVvMFUNEAAAAC/harry-potter-sorcerer-stone.gif)](https://github.com/jabezzy2000)
+<div align="center">
+    <a href="https://github.com/jabezzy2000">
+        <img src="https://media.tenor.com/tTvBVvMFUNEAAAAC/harry-potter-sorcerer-stone.gif" alt="MasterHead">
+    </a>
+</div>
 <h1 align="center">Hi 👋, I'm Jabez Agyemang-Prempeh</h1>
 <h3 align="center">I am a computer science student at Howard University and a passionate and budding developer.</h3>
 
