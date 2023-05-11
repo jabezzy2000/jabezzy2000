@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Jabez.agyemang-prem@bison.howard.edu**
 
-- 📄 Here is my [resume](https://github.com/jabezzy2000/resume/blob/main/Jabez_Agyemang-Prempeh_April2023.pdf).
+- 📄 Here is my [resume](https://github.com/jabezzy2000/resume/blob/main/Jabez's%20Resume%20May.pdf).
 
 
 - ⚡ Fun fact **I absolutely love Harry Potter and have re-watched the whole franchise more than 12 times**
