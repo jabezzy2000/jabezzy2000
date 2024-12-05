@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Jabez.agyemang-prem@bison.howard.edu**
 
-- 📄 Here is my [resume](https://github.com/jabezzy2000/resume/blob/main/Jabez's%20November%20Resume.pdf).
+- 📄 Here is my [resume](https://github.com/jabezzy2000/resume/blob/main/Jabez_Agyemang_Prempeh_RA_Resume.pdf).
 
 
 
