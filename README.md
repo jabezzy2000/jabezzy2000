@@ -4,7 +4,7 @@
     </a>
 </div>
 <h1 align="center">Hi 👋, I'm Jabez Agyemang-Prempeh</h1>
-K
+
 - 📄 Here is my [resume](https://github.com/jabezzy2000/resume/blob/main/Jabez_Agyemang_Prempeh_s_Resume-3.pdf).
 
 
