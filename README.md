@@ -4,15 +4,8 @@
     </a>
 </div>
 <h1 align="center">Hi 👋, I'm Jabez Agyemang-Prempeh</h1>
-<h3 align="center">I am a computer science student at Howard University and a passionate and budding developer.</h3>
-
-- 🔭 I’m currently working on **Food-Choice**
-
-- 👯 I’m currently playing **Fifa / Hogwarts Legacy**
-
-- 📫 How to reach me **Jabez.agyemang-prem@bison.howard.edu**
-
-- 📄 Here is my [resume](https://github.com/jabezzy2000/resume/blob/main/Jabez_Agyemang_Prempeh_RA_Resume.pdf).
+K
+- 📄 Here is my [resume](https://github.com/jabezzy2000/resume/blob/main/Jabez_Agyemang_Prempeh_s_Resume-3.pdf).
 
 
 
