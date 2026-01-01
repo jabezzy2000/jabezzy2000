@@ -62,14 +62,14 @@
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabezzy2000&show_icons=true&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jabezzy2000&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jabezzy2000&show_icons=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabezzy2000&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jabezzy2000" />
+<p align="center">
+  <img src="https://streak-stats.vercel.app/?user=jabezzy2000&theme=dark" alt="Streak Stats" />
 </p>
