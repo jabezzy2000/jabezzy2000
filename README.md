@@ -10,7 +10,7 @@
 <h1 align="center">Hey 👋 I’m Jabez Agyemang-Prempeh</h1>
 
 <p align="center">
-  Software Engineer • AI/ML Researcher • Builder • Curious by default
+  Software Engineer • Builder • Curious by default
 </p>
 
 ---
@@ -20,27 +20,6 @@
 I’m a software engineer who enjoys building things that solve real problems — from mobile apps and backend systems to AI-powered tools and research projects.
 
 Recently, I’ve been especially interested in the intersection of **AI, mobile products, recommendation systems, computer vision, and real-world consumer apps**.
-
-A few things I’m proud of:
-
-- 🧠 Published NLP research through **SemEval @ ACL**, where my team’s work ranked among the **top 15 worldwide** for our task  
-- 🏆 Led a team of 4 to place **3rd overall** at **BisonBytes Hackathon 2024**
-- 🍎 Previously interned as a **Software Engineer at Apple**, working on automation, hardware communication, testing infrastructure, and Find My-related tooling  
-- 🔵 Previously interned as a **Software Engineer at Meta**, building Android applications and backend-integrated mobile features  
-- 🎓 Graduated **Summa Cum Laude** and was inducted into **Tau Beta Pi**
-- 🛠️ Currently building projects around apartment discovery, fashion recommendation, AI try-on, and media tooling
-
----
-
-### What I’m building / exploring
-
-- 🏙️ **CityScout** — an apartment discovery platform that helps people find apartments using natural-language search, neighborhood context, commute insights, and richer listing intelligence  
-- 👕 **DripOut** — a fashion-tech app exploring AI try-on, recommendation systems, and personalized outfit discovery  
-- 🎥 **TikTok Audio Converter** — a C# tool for downloading short-form video links and extracting audio  
-- 🧬 **ML / NLP research** — fine-tuning multilingual models, evaluating language understanding, and exploring applied AI systems  
-- 🔎 **Search & recommendation systems** — especially tools that help users find media, fashion items, apartments, and other content through natural language
-
----
 
 ### Tech I’ve worked with
 
